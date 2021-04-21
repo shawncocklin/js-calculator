@@ -1,0 +1,22 @@
+{
+  "name": "js-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawncocklin/js-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawncocklin/js-calculator/issues"
+  },
+  "homepage": "https://github.com/shawncocklin/js-calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
