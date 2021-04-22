@@ -8,7 +8,7 @@ let firstNumber = rs.questionInt('Please type in the first number: ');
 
 let secondNumber = rs.questionInt('Please type in the second number: ');
 
-let result;
+let result = 0;
 if (selectedOperation === '*') {
   result = firstNumber * secondNumber;
 }
